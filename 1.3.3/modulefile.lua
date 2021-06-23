@@ -22,7 +22,7 @@ Flac / Integrative Genetic Element Retriever: precisely maps IGEs (a defined typ
 
 To load the module type
 
-> module load Flac/1.3.3
+> module load flac/1.3.3
 
 To unload the module type
 
