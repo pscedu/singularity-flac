@@ -8,7 +8,7 @@
 
 whatis("Name: Flac")
 whatis("Version: 1.3.3")
-whatis("Category: Biological Sciences")
+whatis("Category: Other")
 whatis("URL: https://www.psc.edu/resources/software")
 whatis("Description: Target / Integrative Genetic Element Retriever: precisely maps IGEs (a defined type of genomic island) in bacterial and archaeal genomes.")
 
