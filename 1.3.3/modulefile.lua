@@ -30,7 +30,6 @@ To unload the module type
 
 Repository
 ----------
-https://github.com/sandialabs/Flac
 
 Tools included in this module are
 
