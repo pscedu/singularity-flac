@@ -3,7 +3,7 @@
 --
 -- "URL: https://www.psc.edu/resources/software"
 -- "Category: Other"
--- "Description: Target / Integrative Genetic Element Retriever: precisely maps IGEs (a defined type of genomic island) in bacterial and archaeal genomes."
+-- "Description: FLAC is an audio coding format for lossless compression of digital audio."
 -- "Keywords: singularity bioinformatics"
 
 whatis("Name: Flac")
