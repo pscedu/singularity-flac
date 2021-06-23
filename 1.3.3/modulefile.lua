@@ -4,7 +4,7 @@
 -- "URL: https://www.psc.edu/resources/software"
 -- "Category: Other"
 -- "Description: FLAC is an audio coding format for lossless compression of digital audio."
--- "Keywords: singularity bioinformatics"
+-- "Keywords: singularity utilities"
 
 whatis("Name: FLAC")
 whatis("Version: 1.3.3")
