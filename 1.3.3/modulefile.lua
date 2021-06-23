@@ -2,7 +2,7 @@
 -- flac 1.3.3 modulefile
 --
 -- "URL: https://www.psc.edu/resources/software"
--- "Category: Biological Sciences"
+-- "Category: Other"
 -- "Description: Target / Integrative Genetic Element Retriever: precisely maps IGEs (a defined type of genomic island) in bacterial and archaeal genomes."
 -- "Keywords: singularity bioinformatics"
 
