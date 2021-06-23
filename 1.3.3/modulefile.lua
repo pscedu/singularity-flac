@@ -6,7 +6,7 @@
 -- "Description: FLAC is an audio coding format for lossless compression of digital audio."
 -- "Keywords: singularity bioinformatics"
 
-whatis("Name: Flac")
+whatis("Name: FLAC")
 whatis("Version: 1.3.3")
 whatis("Category: Other")
 whatis("URL: https://www.psc.edu/resources/software")
