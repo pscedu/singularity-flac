@@ -26,7 +26,7 @@ To load the module type
 
 To unload the module type
 
-> module unload FLAC/1.3.3
+> module unload flac/1.3.3
 
 Repository
 ----------
