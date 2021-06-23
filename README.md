@@ -7,6 +7,12 @@
 # singularity-flac
 Singularity recipe for [flac](https://github.com/sandialabs/flac).
 
+## About this repository
+![DANGER](https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=ecf05e479ma1nskt8mxbxrl20v7suehh491hu20kisxhxcbe&rid=giphy.gif&ct=g)
+
+* The purpose of this repository is to highlight how to deploy a Singularity and Spack together.
+* At this moment, the workflow is expected to fail as we have not found a good solution to deploying the images (yet).
+
 ## Installing the container on Bridges 2
 Copy the
 
