@@ -14,7 +14,7 @@ whatis("Description: Target / Integrative Genetic Element Retriever: precisely m
 
 help([[
 FLAC 1.3.3
-------------
+----------
 
 Description
 -----------
@@ -34,18 +34,10 @@ https://github.com/sandialabs/Flac
 
 Tools included in this module are
 
-* dnaStats.pl
-* resolve.pl
-* tiger.pl
-* islander.pl
-* tater.pl
+* flac
 ]])
 
-depends_on('BLAST')
-depends_on('infernal')
-depends_on('trnascan-se')
-
-local package = "Flac"
+local package = "FLAC"
 local version = "1.3.3"
 local base    = pathJoin("/opt/packages",package,version)
 prepend_path("PATH", base)
