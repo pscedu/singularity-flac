@@ -18,7 +18,7 @@ FLAC 1.3.3
 
 Description
 -----------
-Flac / Integrative Genetic Element Retriever: precisely maps IGEs (a defined type of genomic island) in bacterial and archaeal genomes.
+FLAC is an audio coding format for lossless compression of digital audio.
 
 To load the module type
 
