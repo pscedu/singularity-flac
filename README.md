@@ -14,6 +14,8 @@ Singularity recipe for [flac](https://github.com/sandialabs/flac).
 * At this moment, the workflow is expected to fail as we have not found a good solution to deploying the images (yet).
 
 ## Installing the container on Bridges 2
+COMMENT: **Do not deploy on any system.**
+
 Copy the
 
 * `SIF` file
