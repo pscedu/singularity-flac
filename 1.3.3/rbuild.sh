@@ -1,9 +1,9 @@
 #!/bin/bash
 
-# Copyright © 2021 Pittsburgh Supercomputing Center.
+# Copyright © 2025 Pittsburgh Supercomputing Center.
 # All Rights Reserved.
 
-IMAGE=singularity-flac-1.3.3.sif
+IMAGE=singularity-flac-1.4.3.sif
 DEFINITION=Singularity
 
 if [ -f $IMAGE ]; then

@@ -1,5 +1,5 @@
 --
--- flac 1.3.3 modulefile
+-- flac 1.4.3 modulefile
 --
 -- "URL: https://www.psc.edu/resources/software"
 -- "Category: Other"
@@ -7,13 +7,13 @@
 -- "Keywords: singularity utilities"
 
 whatis("Name: FLAC")
-whatis("Version: 1.3.3")
+whatis("Version: 1.4.3")
 whatis("Category: Other")
 whatis("URL: https://www.psc.edu/resources/software")
 whatis("Description: FLAC is an audio coding format for lossless compression of digital audio.")
 
 help([[
-FLAC 1.3.3
+FLAC 1.4.3
 ----------
 
 Description
@@ -22,11 +22,11 @@ FLAC is an audio coding format for lossless compression of digital audio.
 
 To load the module type
 
-> module load flac/1.3.3
+> module load flac/1.4.3
 
 To unload the module type
 
-> module unload flac/1.3.3
+> module unload flac/1.4.3
 
 Repository
 ----------
@@ -37,6 +37,6 @@ Tools included in this module are
 ]])
 
 local package = "FLAC"
-local version = "1.3.3"
+local version = "1.4.3"
 local base    = pathJoin("/opt/packages",package,version)
 prepend_path("PATH", base)
